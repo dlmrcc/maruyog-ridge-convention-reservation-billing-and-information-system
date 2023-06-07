@@ -1,0 +1,29 @@
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog Ridge Convention Center - BIS.exe
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog Ridge Convention Center - BIS.pdb
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.frmForgotPassword.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.frmGuest.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.frmLobby.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.frmLogIn.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.frmRestaurantMenu.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.frmRoomSettings.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.frmUser.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.Properties.Resources.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.ucAccommodation.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.ucAddtional.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.ucConvention.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.ucGuest.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.ucRestaurant.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.ucResto.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.ucRoom.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.ucUser.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.wfAdditional.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.wfConvention.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.wfRestaurant.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog_Ridge_Convention_Center___BIS.wfVATDiscountSettings.resources
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\bin\Debug\Maruyog Ridge Convention Center - BIS.exe
+C:\Users\demarcaca\Desktop\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\bin\Debug\Maruyog Ridge Convention Center - BIS.pdb
+D:\itcuhs\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog Ridge Convention Center - BIS.exe
+D:\itcuhs\Maruyog Ridge Convention Center - BIS\Maruyog Ridge Convention Center - BIS\obj\Debug\Maruyog Ridge Convention Center - BIS.pdb
